@@ -32,7 +32,7 @@ def main_layout():
     st.markdown("<h1 style='text-align: center;'>Data Science Workshops: Spring 2024</h1>", unsafe_allow_html=True)
     left, center, right = st.columns([14, 16, 14])
     with center:
-        st.image('logo.png', width=500) 
+        st.image(''https://raw.githubusercontent.com/Tanya-Khanna/nbl_webpage/main/nbl_webpage/logo.png', width=500) 
 
     display_additional_info()
 

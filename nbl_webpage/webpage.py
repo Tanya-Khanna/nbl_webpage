@@ -82,7 +82,7 @@ workshops = [
     "gif": 'https://raw.githubusercontent.com/Tanya-Khanna/nbl_webpage/main/nbl_webpage/workshop7.gif',
     "video_link": "https://rutgers.app.box.com/s/u45bm5qo692rxl5yf3znvkei8qxcihi7",
     "code_link": "https://github.com/Tanya-Khanna/DataScienceWorkshop_2024_NBL/blob/main/Workshop_7_Deep_Learning/Recurrent_Neural_Networks.ipynb",
-    "notebook_path": "Workshop 7_Deep Learning/Recurrent Neural Networks.ipynb",
+    "notebook_path": "Workshop_7_Deep_Learning/Recurrent_Neural_Networks.ipynb",
     "github_repo": "Tanya-Khanna/DataScienceWorkshop_2024_NBL"
 },
 {

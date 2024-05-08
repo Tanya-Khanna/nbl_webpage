@@ -31,7 +31,10 @@ def display_additional_info():
 
 def main_layout():
     st.markdown("<h1 style='text-align: center;'>Data Science Workshops: Spring 2024</h1>", unsafe_allow_html=True)
-    st.subheader("By Tanya Khanna - Data Science Graduate Specialist")
+    st.markdown(
+        "<h2 style='text-align: center;'>By <a href='https://libguides.rutgers.edu/prf.php?id=0c57592f-bfa1-11ee-9a47-0a92c88187d1' target='_blank'>Tanya Khanna</a> - Data Science Graduate Specialist</h2>",
+        unsafe_allow_html=True
+    )
     left, center, right = st.columns([14, 16, 14])
     with center:
         st.image('https://raw.githubusercontent.com/Tanya-Khanna/nbl_webpage/main/nbl_webpage/logo.png', width=500) 
